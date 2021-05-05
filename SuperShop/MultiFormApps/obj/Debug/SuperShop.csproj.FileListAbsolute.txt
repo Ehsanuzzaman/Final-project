@@ -1,0 +1,12 @@
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\bin\Debug\MultiFormApps.exe.config
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\bin\Debug\MultiFormApps.exe
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\bin\Debug\MultiFormApps.pdb
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\obj\Debug\SuperShop.csprojAssemblyReference.cache
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\obj\Debug\MultiFormApps.delete.resources
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\obj\Debug\MultiFormApps.Login.resources
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\obj\Debug\MultiFormApps.Members.resources
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\obj\Debug\MultiFormApps.Properties.Resources.resources
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\obj\Debug\SuperShop.csproj.GenerateResource.cache
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\obj\Debug\SuperShop.csproj.CoreCompileInputs.cache
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\obj\Debug\MultiFormApps.exe
+I:\CSHARP FINAL\MultiFormApps\MultiFormApps\obj\Debug\MultiFormApps.pdb
